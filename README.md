@@ -1,11 +1,11 @@
-## Mov.Ai Interview Test
+# Mov.Ai Interview Test
 
-# Synopsis
+## Synopsis
 
 A possible solution written in C for the test provided: a program that determines if the text message can be composed out of the letters of the second string and print out True or False.
 
 
-# Usage
+## Usage
 
 This program must run in a computer with a C compiler. I used MinGW (GCC/G++) Compiler on my personal computer.
 Iniatilly, the program asks for an input message and subsequently the letters to be used in the comparison.

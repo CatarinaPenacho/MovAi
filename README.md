@@ -9,5 +9,5 @@ A possible solution written in C for the test provided: a program that determine
 
 This program must run in a computer with a C compiler. I used MinGW (GCC/G++) Compiler on my personal computer.
 Iniatilly, the program asks for an input message and subsequently the letters to be used in the comparison.
-After collecting the two strings, the composition of the first string is verified, and the program returns true or false if the letters from the second string are able to construct the first message. 
+After collecting the two strings, the composition of the first string is verified, and the program returns true or false if the letters from the second string are able to construct the first message. The program meets the requirements.
 
